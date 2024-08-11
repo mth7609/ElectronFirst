@@ -14,7 +14,7 @@ module.exports = {
         repository: {
           owner: 'mth7609',
           name: 'ElectronFirst',
-        },
+        }, 
         prerelease: true,
         draft: false,
         force: true
